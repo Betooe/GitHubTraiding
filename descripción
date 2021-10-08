@@ -1,0 +1,11 @@
+Content
+The dataset contains a record of each reported wildlife strike of a military, commercial, or civil aircraft between 1990 and 2015. Each row contains the incident date, aircraft operator, aircraft make and model, engine make and model, airport name and location, species name and quantity, and aircraft damage.
+
+Acknowledgements
+The wildlife strike database was compiled from reports received from airports, airlines, and pilots and published by the Federal Aviation Association.
+
+Limpiar nan por UNKNOWN
+Year vs Incident.
+Month vs Incident.
+Which part of the airplane is most prone to damage in wildlife strikes?
+What bird species has caused the most damage to airplanes?
